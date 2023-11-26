@@ -3,4 +3,4 @@
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Solo&theme=vue-dark&hide_border=true&border_radius=10&mode=weekly" alt="GitHub Streak" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KellMinorniy)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KellMinorniy)](
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KellMinorniy)
