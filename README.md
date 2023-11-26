@@ -1,5 +1,4 @@
-<h2 align="left">Hi 👋! My name is Danya and I'm a Frontend Developer, from Crimea</h2>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=49F7E4&center=true&random=false&width=435&lines=Frontend+developer+on+Vue.js" alt="Typing SVG" /></a>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KellMinorniy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -43,7 +42,7 @@
 </div>
 
 ###
-
+<h2>Connect</h2>
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" href="google.com" height="35" alt="gmail logo"  />
