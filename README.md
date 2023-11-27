@@ -1,9 +1,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=49F7E4&center=true&random=false&width=435&lines=Frontend+developer+on+Vue.js" alt="Typing SVG" /></a>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KellMinorniy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KellMinorniy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h3 align="left">Languages and Tools:</h3>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kellminorniy&show_icons=true&locale=en&layout=compact" alt="kellminorniy" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kellminorniy&show_icons=true&locale=en" alt="kellminorniy" /></p>
 
 ###
 
